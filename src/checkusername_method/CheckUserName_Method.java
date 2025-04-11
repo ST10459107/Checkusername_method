@@ -17,7 +17,7 @@ public class CheckUserName_Method {
         }else{
      return false;
     }
-        }
+        }//End of the mthod
 
     public static void main(String[] args) {
         Scanner scan = new Scanner (System.in);
